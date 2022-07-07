@@ -1,0 +1,5 @@
+school
+inter
+college
+university
+job
